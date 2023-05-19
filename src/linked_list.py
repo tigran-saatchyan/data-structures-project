@@ -1,3 +1,4 @@
+# pylint: skip-file
 class Node:
     """Класс для узла односвязного списка"""
     pass
